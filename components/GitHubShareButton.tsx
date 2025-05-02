@@ -1,6 +1,7 @@
 import styles from './styles.module.css'
 
 export function GitHubShareButton() {
+  return null; // Просто ничего не рендерим
   return (
     <a
       href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
