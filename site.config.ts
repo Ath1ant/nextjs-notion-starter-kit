@@ -9,16 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: null,
-  domain: null,
-  author: null,
+  // name: null,
+  // domain: null,
+  // author: null,
 
   // open graph metadata (optional)
   // description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: null,
+  // github: null,
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
