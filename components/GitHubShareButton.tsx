@@ -8,10 +8,8 @@ export function GitHubShareButton() {
       rel='noopener noreferrer'
       className={styles.githubCorner}
       aria-label='View source on GitHub'
-      display='none'
     >
       <svg
-        display='none'
         width='80'
         height='80'
         viewBox='0 0 250 250'
