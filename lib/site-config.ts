@@ -11,7 +11,7 @@ export interface SiteConfig {
   language?: string
 
   twitter?: string
-  github?: string
+  // github?: string
   linkedin?: string
   newsletter?: string
   youtube?: string
