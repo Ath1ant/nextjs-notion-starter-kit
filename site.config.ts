@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  // name: null,
-  // domain: null,
-  // author: null,
+  name: null,
+  domain: null,
+  author: null,
 
   // open graph metadata (optional)
   // description: 'Example Next.js Notion Starter Kit Site',
